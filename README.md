@@ -289,5 +289,5 @@ Este projeto explora a construção de uma aplicação full stack mobile envolve
 Desenvolvido por:
 
 - [Willian Minatto](https://github.com/willianminatto)
-- [Luiz Zomer](https://github.com/LuizZomer)
+- [Luiz Felipe Zomer](https://github.com/LuizZomer)
 - [Luiz Filipe Linhares](https://github.com/LuizFilipeLinhares)
